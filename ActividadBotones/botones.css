@@ -133,6 +133,7 @@ body{
     }
 }
 .caja5{
+   
     flex: 1 1 calc(33.33% - 10px);
     color: var(--color-texto);
     flex-direction: column;
@@ -156,7 +157,7 @@ body{
     content: '';
     position: absolute;
     width: 0%;
-    height: 145%;
+    height: 150%;
     background: linear-gradient(90deg, rgba(224,163,240,1) 0%, rgba(212,8,144,1) 35%);
     top: 50;
     left: 0;
